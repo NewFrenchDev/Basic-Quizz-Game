@@ -10,7 +10,7 @@ To launch the game:
 The game:  
 50 questions with 4 propositions each.  
 You can choice the number of questions to answer  
-3 tries if you fail the game is over and you can choose to stop or replay   
+3 tries for each question if you fail the game is over and you can choose to stop or replay   
 
 
 If you want to add new questions with 4 propositions and their solutions, just open the quizz_file.py and and what you want to write in the correct function.  
